@@ -1,0 +1,6 @@
+CREATE TABLE carro (
+    placa varchar,
+    modelo varchar,
+    cor varchar,
+    id int
+);
